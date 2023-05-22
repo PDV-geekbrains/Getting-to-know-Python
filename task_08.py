@@ -19,7 +19,8 @@ if isFound == False:
         if width * length == piecesNumber:
             isFound = True
         width -= 1
-# Вывод результата.
+
+# Result output.
 if isFound == True:
     print("yes")
 else:
