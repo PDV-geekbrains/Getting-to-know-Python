@@ -4,7 +4,7 @@ print("Сумма элементов списка, стоящих на нечё�
 # Data input.
 inputData = input("Введите ряд целых чисел через пробел: ").split()
 
-inputArray =[]
+inputArray = []
 for x in inputData:
     inputArray.append(int(x))
 
