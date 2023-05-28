@@ -8,9 +8,7 @@ N = int(input("Введите число элементов в массиве (N
 K = int(input('Введите число для поиска (K): '))
 
 n = 0
-arr = []
-for i in range(N):
-    arr.append(random.randint(1, N))
+arr = [random.randint(1, N + 1) for i in range(1, N + 1)]
 for i in range(0, len(arr)):
     if K == arr[i]:
         n += 1
