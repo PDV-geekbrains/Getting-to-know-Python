@@ -1,9 +1,9 @@
 # Знакомство с языком Python
 
 ### Урок 3. Списки и словари
-* [Задача 16]()
-* [Задача 18]()
-* [Задача 20]()
+* [Задача 16](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_16.py)
+* [Задача 18](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_18.py)
+* [Задача 20](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_20.py)
 
 ### Урок 2. Циклы (for, while)
 * [Задча 10](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_10.py)
