@@ -1,5 +1,9 @@
 # Знакомство с языком Python
 
+### Урок 4. Словари, множества и профилирование
+* [Задача 22]()
+* [Задача 24]()
+
 ### Урок 3. Списки и словари
 * [Задача 16](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_16.py)
 * [Задача 18](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_18.py)
