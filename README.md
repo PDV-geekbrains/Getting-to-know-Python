@@ -1,5 +1,9 @@
 # Знакомство с языком Python
 
+### Урок 5. Рекурсия и алгоритмы
+* [Задача 26]()
+* [Задача 28]()
+
 ### Урок 4. Словари, множества и профилирование
 * [Задача 22](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_22.py)
 * [Задача 24](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_24.py)
