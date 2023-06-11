@@ -1,8 +1,8 @@
 # Знакомство с языком Python
 
 ### Урок 6. Повторение списков
-* [Задача 30]()
-* [Задача 32]()
+* [Задача 30](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_30.py)
+* [Задача 32](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_32.py)
 
 ### Урок 5. Рекурсия и алгоритмы
 * [Задача 26](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_26.py)
