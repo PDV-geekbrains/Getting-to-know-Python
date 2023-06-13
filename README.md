@@ -1,5 +1,9 @@
 # Знакомство с языком Python
 
+### Урок 7. Функции высшего порядка
+* [Задача 34]()
+* [Задача 36]()
+
 ### Урок 6. Повторение списков
 * [Задача 30](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_30.py)
 * [Задача 32](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_32.py)
