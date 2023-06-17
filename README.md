@@ -1,7 +1,7 @@
 # Знакомство с языком Python
 
 ### Урок 8. Работа с файлами
-* [Задача 38]()
+* [Задача 38](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_38.py)
 
 ### Урок 7. Функции высшего порядка
 * [Задача 34](https://github.com/PDV-geekbrains/Getting-to-know-Python/blob/master/task_34.py)
